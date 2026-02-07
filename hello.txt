@@ -1,2 +1,2 @@
-hello world
-hello world for conflictt
+hhello world for conflictt
+hello world for conflict
